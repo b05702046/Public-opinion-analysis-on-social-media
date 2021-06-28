@@ -124,9 +124,9 @@
 
 1.	Dcard API：
 https://www.dcard.tw/service/api/v2
-2.	Dcard 爬蟲說明 
-3.	中研院中文詞庫小組
-4.	Chen W.-F. and Ku L.-W., “中文情感語意分析套件 CSentiPackage 發展與應用,” 圖書館學與資訊科學, 2018.
+2.	Dcard 爬蟲說明：https://blog.jiatool.com/posts/dcard_api_v2/
+3.	中研院中文詞庫小組：https://ckip.iis.sinica.edu.tw/
+4.	Chen W.-F. and Ku L.-W., “中文情感語意分析套件 CSentiPackage 發展與應用,” 圖書館學與資訊科學, 2018.：https://reurl.cc/mqLyWW
 
 
 
