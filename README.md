@@ -76,6 +76,68 @@
   ![image](https://user-images.githubusercontent.com/51256347/123592636-12268700-d820-11eb-8710-dff8e622fe67.png)
   
   ![image](https://user-images.githubusercontent.com/51256347/123592656-18b4fe80-d820-11eb-99e7-5c50339390c8.png)
+  
+  Dcard時事版：
+  
+  ![image](https://user-images.githubusercontent.com/51256347/123592715-2e2a2880-d820-11eb-968f-84227dca7430.png)
+  
+  ![image](https://user-images.githubusercontent.com/51256347/123592736-35513680-d820-11eb-941b-f429371fee53.png)
+  
+  d. 對2020 總統參選人以及熱門人選之情緒分析：
+  
+  由下方圖表可以發現，各自的傾向都頗為接近的，其中負面文章的比例，以柯文哲為最多，佔57.9%，其次是蔡英文的56.7%，最後是韓國瑜的55.7%。正面文章的比例的排名也是相同，柯文哲的正面文章比例有32.0%，蔡英文的有31.2%，韓國瑜的有30.7%。
+  
+在圖表可以發現，各自的傾向都頗為接近的，其中負面文章的比例，以柯文哲為最多，佔57.9%，其次是蔡英文的56.7%，最後是韓國瑜的55.7%。正面文章的比例的排名也是相同，柯文哲的正面文章比例有32.0%，蔡英文的有31.2%，韓國瑜的有30.7%。
+
+![image](https://user-images.githubusercontent.com/51256347/123592836-57e34f80-d820-11eb-949b-2fcd48142cfb.png)
+
+以月份單獨分析他們的情緒走向的話，可以發現：
+
+![image](https://user-images.githubusercontent.com/51256347/123592875-692c5c00-d820-11eb-90a6-07a9146f9a6e.png)
+
+![image](https://user-images.githubusercontent.com/51256347/123592883-6cbfe300-d820-11eb-9b55-23913123c488.png)
+
+![image](https://user-images.githubusercontent.com/51256347/123592909-75b0b480-d820-11eb-8e2c-a79a54e588d2.png)
+
+
+  e. 三者的負面詞文字雲：
+  
+  ![image](https://user-images.githubusercontent.com/51256347/123592969-895c1b00-d820-11eb-9dcc-122e2540d0af.png)
+  
+  ![image](https://user-images.githubusercontent.com/51256347/123593007-924cec80-d820-11eb-8f56-61dbee5d3ff9.png)
+  
+  f. 三者正面詞文字雲：
+  
+  ![image](https://user-images.githubusercontent.com/51256347/123593048-a1339f00-d820-11eb-897b-ff70e3234c9f.png)
+  
+  ![image](https://user-images.githubusercontent.com/51256347/123593059-a55fbc80-d820-11eb-9857-3853a92448b3.png)
+  
+  
+### 結論：
+  
+　　本專案透過研究分析兩大論壇時事類討論文章不僅發現了各自的用戶使用狀況，也發現雖然在推噓文數統計上噓文比例並不會特別高，但是在情緒分析部分用戶的負面情緒比例普遍偏高，推測可能在這些論壇上發表意見的網友大都是想抒發對於政治狀況的不滿，因此可能在用詞遣句上充滿較多負面情緒字眼。
+  
+　　然而本專案在進行文字處理中也發現課堂上所教的套件在處理中文文本時沒辦法較準確的切詞，而在多方嘗試之下選用了台灣中研院所開發的套件能較符合繁體中文文本的斷詞，但礙於時間與硬體資源不足沒辦法對完整的文本作分析 （情緒分析為隨機選取各看板1000篇文章）是這次專案比較美中不足的地方。
+
+
+### 參考資料：
+
+1.	Dcard API：
+https://www.dcard.tw/service/api/v2
+2.	Dcard 爬蟲說明 
+3.	中研院中文詞庫小組
+4.	Chen W.-F. and Ku L.-W., “中文情感語意分析套件 CSentiPackage 發展與應用,” 圖書館學與資訊科學, 2018.
+
+
+
+
+
+  
+
+
+
+
+
 
 
 
