@@ -17,6 +17,7 @@
       ![image](https://user-images.githubusercontent.com/51256347/123589770-47c97100-d81c-11eb-92f8-a4afc15f6fcf.png)
    
    **2. 資料敘述分析部分：**
+   
       a. 發文時間：
       ![image](https://user-images.githubusercontent.com/51256347/123589851-6fb8d480-d81c-11eb-8cdb-add0b29781ad.png) 
       DCARD：在晚上發文的比例偏少，可能和使用者多為大學生有關，故無上班上課時間限制，不一定只能在晚上發文，且較為晚睡，凌晨時間的發文比例較高。
