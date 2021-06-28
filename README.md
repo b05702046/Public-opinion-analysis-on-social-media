@@ -12,7 +12,9 @@
    
 ### 內容與產出：
    **1. 資料取得部分：**
+   
       a. PTT：使用python之scrapy套件爬取ptt HatePolitics版及Gossiping板2020/1/1至2020/12/29之文章標題與文章內容。前者爬得78,508筆資料，後者爬得737,011筆資料。
+      
       b. Dcard：以 Dcard所提供之 API 爬取時事板 2020 年的文章內容並記錄文章相關資訊如下表
       ![image](https://user-images.githubusercontent.com/51256347/123589770-47c97100-d81c-11eb-92f8-a4afc15f6fcf.png)
    
