@@ -52,10 +52,36 @@
 
 
   **3. 看板輿情分析部分：**
+  
    a. 輔助套件：
    
    使用了中研院資訊所CKIP Lab研發的CKIP Tagger —開源的斷詞、詞性標注、實體辨識系統和台灣大學自然語言處理實驗室的NTUSD正、負面詞辭典，還有百度停用詞辭典來進行斷詞和情緒分析的工作。斷詞時候，必需篩走一些無關重要的詞性的字詞以及標點符號。
    
+   b. 分析結果：
+   
+   我們分析情緒的指標是以文章內容正面字詞數量減掉文章內容負面字詞數量，若為正數代表使用正面字詞頻率多於負面字詞頻率，被視為正面文章；若相減後為零，則為中立傾向的文章，下面會展示正、負面傾向文章的圖表。
+   
+   ![image](https://user-images.githubusercontent.com/51256347/123592476-d55a9000-d81f-11eb-8f57-f548ccc9fa99.png)
+
+  c. 各版情緒狀態與文字雲：
+  
+  政黑板：
+  
+  ![image](https://user-images.githubusercontent.com/51256347/123592584-fc18c680-d81f-11eb-99d0-a568c6c08ca7.png)
+  
+  ![image](https://user-images.githubusercontent.com/51256347/123592601-02a73e00-d820-11eb-8a5c-24c46efb93d4.png)
+
+  八卦版：
+  
+  ![image](https://user-images.githubusercontent.com/51256347/123592636-12268700-d820-11eb-8710-dff8e622fe67.png)
+  
+  ![image](https://user-images.githubusercontent.com/51256347/123592656-18b4fe80-d820-11eb-99e7-5c50339390c8.png)
+
+
+
+
+
+
 
 
 
